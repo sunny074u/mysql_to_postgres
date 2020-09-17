@@ -10,7 +10,7 @@ DB_DETAILS = {
         'TARGET_DB': {
             'DB_TYPE': 'postgres',
             'DB_HOST': 'localhost',
-            'DB_NAME': 'retail',
+            'DB_NAME': 'retail_dw',
             'DB_USER': 'retail_user',
             'DB_PASS': '#Abcd4321'
         }
